@@ -1,0 +1,114 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glut.cpp
+  imgui_impl_opengl2.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Chach\Desktop\paint-clone\header.h(2,1): warning C4005: 'FREEGLUT_STATIC': macro redefinition
+C:\Users\Chach\Desktop\paint-clone\main.cpp : message : see previous definition of 'FREEGLUT_STATIC'
+C:\Users\Chach\Desktop\paint-clone\shape.h(44,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\triangle.h(141,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\triangle.h(157,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\circle.h(20,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(22,18): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(23,18): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(24,18): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(25,18): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(30,20): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(35,20): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(42,20): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(47,20): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(51,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(52,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(53,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(54,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(56,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(57,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(58,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(59,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(92,22): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(93,22): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(117,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(117,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(118,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(118,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(124,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(125,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(126,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(127,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chach\Desktop\paint-clone\bezier.h(181,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\bezier.h(182,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\main.cpp(419,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\main.cpp(420,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chach\Desktop\paint-clone\main.cpp(567,10): warning C4551: function call missing argument list
+C:\Users\Chach\Desktop\paint-clone\main.cpp(1455,22): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(149,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2006): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,int,int,int>(_Ty &,int &&,int &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=CLine
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2725): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=CLine
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2726): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=CLine
+          ]
+C:\Users\Chach\Desktop\paint-clone\bezier.h(8): message : see reference to function template instantiation 'std::shared_ptr<CLine> std::make_shared<CLine,int,int,int>(int &&,int &&,int &&)' being compiled
+  tinyfiledialogs.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2527 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Chach\Desktop\paint-clone\Release\Project1.exe
