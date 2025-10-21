@@ -6,6 +6,9 @@ Daniela Ruggiero
 2D drawing application developed in C++, a Paint clone project that allows users to create and manipulate basic shapes like lines, circles, rectangles, triangles, and curves. It includes functions to change colors, move and resize figures, and manage their layer order (bring to front or send to back).
 
 The program features two rendering modes: software (drawing pixel by pixel using the Mid-Point Algorithm to display primitives) and hardware (accelerated with OpenGL). Scenes can be saved and loaded from text files. The user interface is integrated using the ImGui library for a modern and responsive control panel with TinyDialogFile integrated to handle native OS dialogs for seamless file operations.
+
+[Demo](/portafolio-paint-project.gif)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Solution: Project1.snl --> Open with --> Microsoft Visual Studio 2019 
 Compile and run using Debug x86/ Release x86
