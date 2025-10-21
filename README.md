@@ -1,4 +1,4 @@
-
+Introduction to Computer Graphics (UCV) | Project 1
 ---
 
 ## 2D Drawing Application (Paint Clone)
@@ -11,7 +11,7 @@ The program features two rendering modes:
 
 Scenes can be **saved and loaded** from text files. The user interface is integrated using the **ImGui** library for a modern and responsive control panel with **TinyDialogFile** integrated to handle native OS dialogs for seamless file operations.
 
-![Demo](portafolio-paint-project.gif)
+![Demo](./portafolio-paint-project.gif)
 ---
 
 ## Execution Instructions
