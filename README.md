@@ -1,7 +1,7 @@
 # Universidad Central de Venezuela 
-# Introduction to Computer Graphics
-# Daniela Ruggiero
-# Project #1
+## Introduction to Computer Graphics
+### Daniela Ruggiero
+#### Project #1
 
 ---
 
@@ -16,7 +16,6 @@ The program features two rendering modes:
 Scenes can be **saved and loaded** from text files. The user interface is integrated using the **ImGui** library for a modern and responsive control panel with **TinyDialogFile** integrated to handle native OS dialogs for seamless file operations.
 
 ![Demo](/portafolio-paint-project.gif)
-
 ---
 
 ## Execution Instructions
