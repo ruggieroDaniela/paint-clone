@@ -10,7 +10,7 @@ The program features two rendering modes:
 * **Hardware** (accelerated with **OpenGL**).
 
 Scenes can be **saved and loaded** from text files. The user interface is integrated using the **ImGui** library for a modern and responsive control panel with **TinyDialogFile** integrated to handle native OS dialogs for seamless file operations.
-
+## Demo
 ![Demo](./portafolio-paint-project.gif)
 ---
 
